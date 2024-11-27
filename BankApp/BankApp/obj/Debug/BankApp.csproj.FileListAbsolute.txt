@@ -1,0 +1,4 @@
+D:\AWPvs\BankApp\BankApp\bin\BankApp.dll
+D:\AWPvs\BankApp\BankApp\bin\BankApp.pdb
+D:\AWPvs\BankApp\BankApp\obj\Debug\BankApp.dll
+D:\AWPvs\BankApp\BankApp\obj\Debug\BankApp.pdb
