@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Users\Vishal\Desktop\crochet" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FTP" replaceMatchingFiles="True" userName="Dishaa" savePWD="True" userPWD="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA0xe2jhkP7UCfjIXQvdLV0gAAAAACAAAAAAAQZgAAAAEAACAAAACZ3mX/RuPfXO/YopIXU8HPQnpB0q4uH44IQopjXgueSgAAAAAOgAAAAAIAACAAAADYZFGxW3ASkCy8sE6KNU4TksctIe4SYADLY0k/ZniENCAAAAAuF7VenNDEuyLRGPJN2BY/Bs7D5U3+LuC8Rq2kC5MmLEAAAADyDippEHwU+3rfclIeRac0z8YA20OU+iMJnkG9FTg9Iy9onVZCvPIdEDEbOkhbEXLa/zfsUYtQkNeR3+vyTggo" SelectedForPublish="True">
+    <file relUrl="AboutUs.aspx" publishTime="11/27/2024 21:32:46" />
+    <file relUrl="Cart.aspx" publishTime="11/27/2024 21:52:04" />
+    <file relUrl="Web.config" publishTime="11/27/2024 22:57:25" />
+    <file relUrl="OrderHistory.aspx" publishTime="11/27/2024 21:51:06" />
+    <file relUrl="OrderConfirmation.aspx" publishTime="11/27/2024 21:34:12" />
+    <file relUrl="ProductDetails.aspx" publishTime="11/27/2024 21:35:13" />
+    <file relUrl="Register.aspx" publishTime="11/27/2024 21:35:32" />
+    <file relUrl="styles.css" publishTime="11/25/2024 22:55:34" />
+    <file relUrl="bin/myWesite.pdb" publishTime="11/27/2024 22:54:35" />
+    <file relUrl="bin/myWesite.dll" publishTime="11/27/2024 22:54:35" />
+    <file relUrl="HomePage.aspx" publishTime="11/27/2024 21:35:53" />
+    <file relUrl="Products.aspx" publishTime="11/27/2024 21:35:23" />
+  </publishProfile>
+</publishData>

@@ -1,0 +1,5 @@
+D:\AWPvs\myWesite\myWesite\bin\myWesite.dll
+D:\AWPvs\myWesite\myWesite\bin\myWesite.pdb
+D:\AWPvs\myWesite\myWesite\obj\Debug\myWesite.dll
+D:\AWPvs\myWesite\myWesite\obj\Debug\myWesite.pdb
+D:\AWPvs\myWesite\myWesite\obj\Debug\myWesite.csprojResolveAssemblyReference.cache
